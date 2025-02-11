@@ -1,2 +1,16 @@
+body{
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	/* grid-template-rows:1fr 1fr; */
+	
+}
 
-/* Your CSS Code here. */
+.border{
+	text-align:center;
+	border:1px solid black;
+	
+}
+#black{
+	background-color:black;
+	color:white;
+}
